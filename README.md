@@ -5,7 +5,7 @@
 I'm ending a course of Python and willing to make an Javascript course, i already know Java.            
 ========
                                                                                                           
-<h5>I'm really interested working as a programmer, and learn new things about IT area.                     
+<h5>I'm really interested working as a programmer, and learn new things about IT area.<\h5>                     
 ========
                                                                                                           
 <h5>I attended to SENAI Technnician course, and i know some things bout hardware repair and maintenance, and
