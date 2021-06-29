@@ -3,7 +3,7 @@
 
 <h2>I'm Iago.</h2>                                                                                               
 I'm ending a course of Python and willing to make an Javascript course, i already know Java.            
-========
+
                                                                                                           
 <h5>I'm really interested working as a programmer, and learn new things about IT area.                 
 
