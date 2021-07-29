@@ -6,13 +6,12 @@
 </tittle>
 <body>
 <h5>Linguagens que eu sei até então:</h5>
-<center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</center>
 <h5>Banco de dados que eu consigo usar:</h5>
-<center>
+
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" "Imagem de banco de dados" align=middle>
-</center>
+<p>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" align="middle">
+</p>
 </body>
