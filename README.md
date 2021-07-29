@@ -8,8 +8,8 @@ Estou aprendendo no momento a área de back-end,mas pretendo me tornar um progra
 #### Situação do meu GitHub
 <div>
   <a href="https://github.com/Iagaum23">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Iagaum23&theme=tokyonight&show_icons=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagaum23&theme=tokyonight">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Iagaum23&theme=tokyonight&show_icons=true&hide=issues&hide_rank=false">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iagaum23&theme=tokyonight&custom_title=Linguagens mais usadas.">
  </div>
 
 <h4>Linguagens que eu uso no momento:</h4>
