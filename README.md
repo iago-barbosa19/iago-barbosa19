@@ -22,7 +22,6 @@ Estou aprendendo no momento a área de back-end,mas pretendo me tornar um progra
 <img align="center" height="30cm" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <h4>Banco de dados que eu uso:</h4>
 <img align="center" height="30cm" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" height="30cm" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 
   <h3>Formas de contato</h3>
   <div>
