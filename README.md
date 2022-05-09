@@ -16,7 +16,6 @@
 <img align="center" title="FLASK" height="30cm" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img align="center" title="JavaScript" heigh="30cm" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" title="Node.JS" heigh="30cm" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img align="center" title="Jquery" height="30cm" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img align="center" title="C#" height="30cm" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   
 <h4>Front-End:</h4>
