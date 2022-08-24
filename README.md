@@ -7,7 +7,7 @@
 --------------------------------------------------------------
 <div>
   <a href="https://github.com/iago-barbosa19">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-barbosa19&layout=compact&theme=tokyonight&custom_title=Linguagens mais usadas.">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-barbosa19&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas.">
  </div>
 
 <h4>Back-End:</h4>
