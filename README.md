@@ -1,4 +1,4 @@
-## Opá, bom dia, boa tarde e boa noite!
+## Opa, bom dia, boa tarde e boa noite!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sou+Iago+Barbosa.;Desenvolvedor+FullStack+Jr.;)](https://git.io/typing-svg)
 ### Minhas áreas de atuação
 * Desenvolvedor de sistemas.
@@ -22,6 +22,7 @@
 <div style="inline">
   <h4>Frameworks:</h4>
   <img align="center" title="FLASK" height="30cm" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img align="center" title="Django" height="30cm" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img align="center" title=".NET" height="30cm" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img align="center" title="Jquery" height="30cm" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" title="Express" height="30cm" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -42,15 +43,20 @@
   <h4>Bancos de dados:</h4>
   <img align="center" title="MYSQL" height="30cm" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">    
   <img align="center" title="MongoDB" height="30cm" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" title="REDIS" height="30cm" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
   <img align="center" title="Postgres" height="30cm" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" title="MSSQL" height="30cm" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div>
-
+<div style="inline">
+  <h4>Mensagerias:</h4>
+  <img align="center" title="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+ </div>
+  
 <div style="inline">
   <h4>Meu Setup</h4>
   <img align="center" title="Processador" height="25cm" src="https://img.shields.io/badge/AMD%20Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <img align="center" title="RAM" height="25cm" src="https://img.shields.io/badge/RAM%2016GB_2666Mhz-35495E?style=for-the-badge">
-  <img align="center" title="Placa de vídeo" height="25cm" src="https://img.shields.io/badge/NVIDIA-GTX1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img align="center" title="Placa de vídeo" height="25cm" src="https://img.shields.io/badge/AMD%20Radeon_RX_6750XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 </div>
   <h3>Formas de contato</h3>
   <div>
@@ -60,5 +66,4 @@
     <a href="https://www.linkedin.com/in/iago-barbosa2612/">
       <img height="30cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    
   </div>
