@@ -1,5 +1,5 @@
 ## Opa, bom dia, boa tarde e boa noite!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sou+Iago+Barbosa.;Desenvolvedor+FullStack+Jr.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sou+Iago+Barbosa.;Desenvolvedor+FullStack+Pleno.;)](https://git.io/typing-svg)
 ### Minhas áreas de atuação
 * Desenvolvedor de sistemas.
 * Técnico de redes.
