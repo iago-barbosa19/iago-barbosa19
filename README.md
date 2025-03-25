@@ -1,15 +1,16 @@
-## Opa, bom dia, boa tarde e boa noite!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Sou+Iago+Barbosa.;Desenvolvedor+FullStack+Pleno.;)](https://git.io/typing-svg)
-### Minhas áreas de atuação
-* Desenvolvedor de sistemas.
-* Técnico de redes.
-* Montagem e manutenção de computadores.
+## Hello There
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Iago+Barbosa.;Mid+FullStack+Developer.;)](https://git.io/typing-svg)
+### I have knowledge in
+* Software Developer.
+* Network infrastructure.
+* Data Analysis
 --------------------------------------------------------------
 <div>
   <a href="https://github.com/iago-barbosa19">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-barbosa19&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas.">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-barbosa19&layout=compact&theme=tokyonight&custom_title=Most%20used%20languages.">
  </div>
-<h3>Formas de contato</h3>
+  <hr />
+<h3>With these you can contact me</h3>
 <div>
   <a href="mailto:iagofbarbosa23@gmail.com">
     <img aling="center" height="30cm" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
